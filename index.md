@@ -23,7 +23,7 @@ How can models of climate change effects on geographic distributions incorporate
 <img src="images/range.png?raw=true"/>
 <p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/future-overlap">Future Habitat Overlap</a></ins></p><br>
 <img src="images/ensemble.png?raw=true"/>
-<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/pca">Principle Component Analysis</a></ins></p><br>
+<p align="center"><ins><a target="_blank" rel="noopener noreferrer" href="https://github.com/daniel-furman/daniel-furman.github.io/tree/master/code-for-figures/ensemble-climate-projections/pca">Principal Component Analysis</a></ins></p><br>
 <img src="images/pca.png?raw=true"/><br><br>
 
 *	Led programming within a five-person research team, quantified geospatial analysis with machine learning predictions
